@@ -1,0 +1,130 @@
+---
+format: 
+  revealjs:
+    theme: [default, assets/styles.scss]
+    width: 1280
+    height: 720
+    logo: img/logo.png
+
+preload-iframes: true
+# embed-resources: true
+footer: Damien Dupré - Can AI Read Your Emotions?
+---
+
+#  {background-iframe="hello-matrix/index.html"}
+
+::: {style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+::: r-fit-text
+Can AI Read Your Emotions?
+:::
+::: r-fit-text
+The Truth Behind Emotion Recognition Technology
+:::
+Damien Dupré, DCU Business School
+:::
+
+##
+
+![](img/news2.png){.absolute .fragment top=50 right=50 width="800"}
+
+![](img/news1.png){.absolute .fragment top=200 left=0 width="800"}
+
+![](img/news4.png){.absolute .fragment bottom=0 right=50 width="800"}
+
+![](img/news5.png){.absolute .fragment top=0 left=50 width="800"}
+
+![](img/news3.png){.absolute .fragment top=400 left=100 width="800"}
+
+![](img/black_mirror.jpg){.absolute .fragment top=50 left=400 width="500"}
+
+## A Bit About Myself
+
+::: columns
+::: {.column width="50%"}
+Research focus: 
+
+- Understanding Genuine Facial Expressions
+- Evaluating Physiological Correlates of Emotions
+
+:::
+
+::: {.column width="50%"}
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kRGjZ_kNAE?autoplay=1&mute=1&playlist=7kRGjZ_kNAE&loop=1"></iframe>
+```
+:::
+:::
+
+::: columns
+::: {.column width="50%"}
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8deJ5b3dRms?autoplay=1&mute=1&playlist=7kRGjZ_kNAE&loop=1"></iframe>
+```
+:::
+
+::: {.column width="50%"}
+- +30 international conferences
+- 2 patents about emotion recognition system
+- 10 research papers in well known journals
+:::
+:::
+
+## What is Emotion AI? {background-image="img/duchenne.jpg"}
+
+:::: {.absolute left="5%" top="65%" style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+The identification of an emotional state using objective indicators
+
+- Text recognition used for sentiment analysis
+- Physiological measurements (Heart Rate, Breathing Rate, Sweat)
+- Bodily postures and … Facial expressions
+:::
+
+## Unreliable Science Fed in AI
+
+![](img/ekman.jpg){.absolute top=50 left=-150}
+
+:::: {.absolute left="50%" top="10%" style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+Paul Ekman, in the 1970s:
+
+- New method to categorise facial expressions: FACS or Facial Action Coding System
+- New theory about Emotion
+  - 7 Emotions
+  - Universal 
+  - Hard-wired into our biology
+:::
+
+## [Automatic Emotion Recognition]{style="color:white;"} {background-image="img/interstellar_affdex.gif" background-size="contain" background-position="top"}
+
+:::: {.absolute left="0%" top="80%"}
+Systems trained to recognise facial configurations/expressions and to infer emotions
+
+However, things were not working as planned…
+:::
+
+## And most importantly…
+
+::: {.incremental}
+- We have **more** than 7 different emotions;
+- We can do **more** than 7 different facial expression;
+- We **can express** emotions that we don’t feel;
+- We **can hide** emotions that we are feeling;
+- We all have **our own ways** to express our emotions.
+:::
+
+![](img/plos.png){.absolute top=400 width="1100"}
+![](img/pr.png){.absolute top=400 right=0 width="400"}
+
+## Thank You! {background-image="img/lady_gaga_poker_face.jpg"}
+
+:::: {.absolute left="10%" top="40%" style="background-color: #ffffffbb; border-radius: 10px; padding: 10px;"}
+***“Can't read my, ***
+
+***can't read my***
+
+***No, [AI] can't read my ***
+
+***poker face”***
+:::
+
+
+
