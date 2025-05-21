@@ -35,8 +35,6 @@ Damien Dupré, DCU Business School
 
 ![](img/news3.png){.absolute .fragment top=400 left=100 width="800"}
 
-![](img/black_mirror.jpg){.absolute .fragment top=50 left=400 width="500"}
-
 ## A Bit About Myself
 
 ::: columns
@@ -58,7 +56,7 @@ Research focus:
 ::: columns
 ::: {.column width="50%"}
 ```{=html}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8deJ5b3dRms?autoplay=1&mute=1&playlist=7kRGjZ_kNAE&loop=1"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8deJ5b3dRms?autoplay=1&mute=1&playlist=8deJ5b3dRms&loop=1"></iframe>
 ```
 :::
 
@@ -79,26 +77,39 @@ The identification of an emotional state using objective indicators
 - Bodily postures and … Facial expressions
 :::
 
-## Unreliable Science Fed in AI
+::: footer
+Forced Laughter (1856) - [Photo by Hulton Archive/Getty Images](www.gettyimages.ie/detail/news-photo/dr-guillaume-duchenne-de-boulogne-a-french-physician-and-a-news-photo/3326137)
+:::
 
-![](img/ekman.jpg){.absolute top=50 left=-150}
+## [Unreliable Science Fed in AI]{style="color: white;"} {background-image="img/pexels-olly-3812743.jpg"}
 
-:::: {.absolute left="50%" top="10%" style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+<!-- ![](img/ekman.jpg){.absolute top=50 left=-150} -->
+
+:::: {.absolute left="5%" top="10%" style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
 Paul Ekman, in the 1970s:
 
-- New method to categorise facial expressions: FACS or Facial Action Coding System
+- New method to categorise facial expressions:
+  - FACS or Facial Action Coding System
+  - Considers that micro-expressions are signs of deceptions
+
 - New theory about Emotion
   - 7 Emotions
   - Universal 
   - Hard-wired into our biology
 :::
 
-## [Automatic Emotion Recognition]{style="color:white;"} {background-image="img/interstellar_affdex.gif" background-size="contain" background-position="top"}
+::: footer
+Collage Photo of Woman (2020) - [Photo by Andrea Piacquadio](https://www.pexels.com/photo/collage-photo-of-woman-3812743/)
+:::
 
-:::: {.absolute left="0%" top="80%"}
-Systems trained to recognise facial configurations/expressions and to infer emotions
+## [Automatic Emotion Recognition]{style="color:white;"} {background-image="img/interstellar_affdex.gif" background-size="130%" background-position="left top"}
 
-However, things were not working as planned…
+:::: {.absolute left="0%" top="80%" style="background-color: #ffffffbb; border-radius: 10px; padding: 5px;"}
+Systems trained to recognise facial configurations/expressions and to infer emotions. However, things were not working as planned…
+:::
+
+::: footer
+IN 1 final (2017) - [Video by Affectiva](https://www.youtube.com/watch?v=NsmAldoVwDs)
 :::
 
 ## And most importantly…
@@ -114,9 +125,9 @@ However, things were not working as planned…
 ![](img/plos.png){.absolute top=400 width="1100"}
 ![](img/pr.png){.absolute top=400 right=0 width="400"}
 
-## Thank You! {background-image="img/lady_gaga_poker_face.jpg"}
+## Thank You! {background-image="img/lady_gaga_ai.png"}
 
-:::: {.absolute left="10%" top="40%" style="background-color: #ffffffbb; border-radius: 10px; padding: 10px;"}
+:::: {.absolute left="5%" top="20%" style="background-color: #ffffffbb; border-radius: 10px; padding: 10px;"}
 ***“Can't read my, ***
 
 ***can't read my***
@@ -126,5 +137,7 @@ However, things were not working as planned…
 ***poker face”***
 :::
 
-
+::: footer
+Replica of Lady Gaga singing Poker Face (2025) - Photo Produced by ChatGPT
+:::
 
