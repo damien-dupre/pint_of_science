@@ -1,7 +1,7 @@
 ---
 format: 
   revealjs:
-    theme: [default, assets/styles.scss]
+    theme: assets/styles.scss
     width: 1280
     height: 720
     logo: img/logo.png
@@ -62,7 +62,7 @@ Research focus:
 
 ::: {.column width="50%"}
 - +30 international conferences
-- 2 patents about emotion recognition system
+- 2 patents about emotion recognition systems
 - 10 research papers in well known journals
 :::
 :::
